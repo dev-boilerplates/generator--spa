@@ -18,6 +18,17 @@ The **HUD** is simply the **navigation** layer, including **menus** and and any 
 
 The **Foreground** layer is where you can find **top level notifications**, or experience breaking **modals**.
 
+**Layer Example**
+
+```
+//- VIDEO PLAYER
+//- PAGE => VIEW-TYPE => CHILD-ITEM => CHILD-FOCUS
+//- HUD => MENU => LINKS
+//- MODAL => LOGIN
+```
+
+
+
 ---
 
 **notes**
