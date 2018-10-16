@@ -14,6 +14,8 @@ The **Router** is master to the `router-view` inside the `layer-view` component,
 /:page/:view-type/:child/:child-focus
 ```
 
+> _this could be described as_ **/location-a/360/item-1/preview/colour**
+
 The **HUD** is simply the **navigation** layer, including **menus** and and any **global app state** access.
 
 The **Foreground** layer is where you can find **top level notifications**, or experience breaking **modals**.
