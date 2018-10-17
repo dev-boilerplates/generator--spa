@@ -1,4 +1,5 @@
 export default {
+    namespaced: true,
     state: {
         id: "36872469283de",
         fuel: 10,
