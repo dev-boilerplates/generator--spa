@@ -16,5 +16,4 @@ window.App = new Vue({
     router,
     store,
     components: { layerBackground, layerView, layerHud, layerForeground }
-    beforeRouteEnter(to, from, next) { next() }
 }).$mount("#root")
