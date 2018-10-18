@@ -19,5 +19,5 @@ export default [
             //     component: Zone
             // }
         ]
-    }
+    }, { path: '*', redirect: '/' }
 ]
